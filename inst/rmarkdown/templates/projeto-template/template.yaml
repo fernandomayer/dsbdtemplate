@@ -1,0 +1,5 @@
+name: >
+ DSBD UFPR Project Template
+description: >
+ Template for creating projects using RMarkdown.
+create_dir: true
